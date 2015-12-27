@@ -24,11 +24,7 @@ Features
 * Support for particle systems
 * AABB collision detection (not resolution) for creating simple physics games
 
-![normal_screen](screens/normal.png)
-![vignette_screen](screens/vignette.png)
-![grayscale_screen](screens/grayscale.png)
-![classic_screen](screens/classic.png)
-
+![screens](screens/screens.PNG)
 
 Optimizations
 -------------
